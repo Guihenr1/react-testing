@@ -7,11 +7,9 @@
     <br />
   </p>
   <p>
-    [Jest Tutorial]
-    (https://www.digitalocean.com/community/tutorials/how-to-test-a-react-app-with-jest-and-react-testing-library)
+    [Jest Tutorial](https://www.digitalocean.com/community/tutorials/how-to-test-a-react-app-with-jest-and-react-testing-library)
   </p>
   <p>
-    [Snapshots Tutorial]
-    (https://www.digitalocean.com/community/tutorials/how-to-write-snapshot-tests-for-react-components-with-jest) 
+    [Snapshots Tutorial](https://www.digitalocean.com/community/tutorials/how-to-write-snapshot-tests-for-react-components-with-jest) 
   </p>
 </p>
