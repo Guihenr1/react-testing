@@ -5,6 +5,7 @@
     <br />
     <br />
   </p>
-    [Jest Tutorial](https://www.digitalocean.com/community/tutorials/how-to-test-a-react-app-with-jest-and-react-testing-library)
-    [Snapshots Tutorial](https://www.digitalocean.com/community/tutorials/how-to-write-snapshot-tests-for-react-components-with-jest)
+    https://www.digitalocean.com/community/tutorials/how-to-test-a-react-app-with-jest-and-react-testing-library
+    <br />
+    https://www.digitalocean.com/community/tutorials/how-to-write-snapshot-tests-for-react-components-with-jest
 
