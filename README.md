@@ -11,5 +11,6 @@
   </p>
   <p>
     [Snapshots Tutorial](https://www.digitalocean.com/community/tutorials/how-to-write-snapshot-tests-for-react-components-with-jest) 
+  [Hacker Rank](https://www.hackerrank.com/guilherme_pomp/)
   </p>
 </p>
